@@ -61,7 +61,7 @@ Memory Management • Algorithms • Unix • Shell • Debugging • Peer Revie
 </tr>
 
 <tr>
-<td><a href="https://github.com/joana-almeida8/born2beroot"><strong>born2beroot</strong></a></td>
+<td><a href="https://github.com/joana-almeida8/born2beroot"><strong>Born2beroot</strong></a></td>
 <td align="center" style="color:#0097b2;">✔</td>
 <td>System administration & virtualization</td>
 </tr>
