@@ -49,31 +49,31 @@ Memory Management • Algorithms • Unix • Shell • Debugging • Peer Revie
 </tr>
 
 <tr>
-<td><a href="https://github.com/joana-almeida8/printf"><strong>ft_printf</strong>a</td>
+<td><a href="https://github.com/joana-almeida8/printf"><strong>ft_printf</strong></a></td>
 <td align="center" style="color:#0097b2;">✔</td>
 <td>Variadic functions & parsing</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/joana-almeida8/get_next_line"><strong>get_next_line</strong>a</td>
+<td><a href="https://github.com/joana-almeida8/get_next_line"><strong>get_next_line</strong></a></td>
 <td align="center" style="color:#0097b2;">✔</td>
 <td>File I/O & memory handling</td>
 </tr>
 
 <tr>
-<td><strong>Born2beroot</strong></td>
+<td><a href="https://github.com/joana-almeida8/born2beroot"><strong>born2beroot</strong></a></td>
 <td align="center" style="color:#0097b2;">✔</td>
 <td>System administration & virtualization</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/joana-almeida8/push_swap"><strong>push_swap</strong>a</td>
+<td><a href="https://github.com/joana-almeida8/push_swap"><strong>push_swap</strong></a></td>
 <td align="center" style="color:#0097b2;">✔</td>
 <td>Algorithm optimization & complexity</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/joana-almeida8/python_piscine"><strong>python_piscine</strong>a</td>
+<td><a href="https://github.com/joana-almeida8/python_piscine"><strong>python_piscine</strong></a></td>
 <td align="center" style="color:#0097b2;">In Progress</td>
 <td>Python fundamentals & OOP</td>
 </tr>
@@ -84,5 +84,5 @@ Memory Management • Algorithms • Unix • Shell • Debugging • Peer Revie
 
 ## Contact
 
-Email: your@email.com  
+Email: include.joana.almeida@gmail.com  
 LinkedIn: https://www.linkedin.com/in/a-joana/
