@@ -74,8 +74,14 @@ Memory Management • Algorithms • Unix • Shell • Debugging • Peer Revie
 
 <tr>
 <td><a href="https://github.com/joana-almeida8/python_piscine"><strong>python_piscine</strong></a></td>
-<td align="center" style="color:#0097b2;">In Progress</td>
+<td align="center" style="color:#0097b2;">✔</td>
 <td>Python fundamentals & OOP</td>
+</tr>
+
+<tr>
+<td><strong>amazeing</strong></a></td>
+<td align="center" style="color:#0097b2;">✔</td>
+<td>Maze generator with ascii rendering display</td>
 </tr>
 
 </table>
