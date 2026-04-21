@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#0d5b69;"><i>Hello, world!</i> I'm Joana!</h1>
 
 <p align="center">
-  42 Milestone 2 • Building depth before scale
+  42 Milestone 3 • Building depth before scale
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## Profile
 
-- Student at <strong>42 School</strong> — Milestone 2  
+- Student at <strong>42 School</strong> — Milestone 3  
 - Strong foundation in C & low-level programming  
 - Expanding into Python to align with evolving Common Core & market demands  
 - Focused on fundamentals, adaptability, and long-term engineering growth  
@@ -82,6 +82,12 @@ Memory Management • Algorithms • Unix • Shell • Debugging • Peer Revie
 <td><strong>amazeing</strong></a></td>
 <td align="center" style="color:#0097b2;">✔</td>
 <td>Maze generator with ascii rendering display</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/joana-almeida8/Fly-in"><strong>fly-in</strong></a></td>
+<td align="center" style="color:#0097b2;"><i>In progress</i></td>
+<td>efficient drone routing system handling movement constraints</td>
 </tr>
 
 </table>
